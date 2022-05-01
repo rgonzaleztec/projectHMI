@@ -21537,12 +21537,12 @@ MonoBehaviour:
   DisableSetupForDebug: 0
   StartingPosition: {fileID: 1550072663}
   TeleporterParent: {fileID: 1550072662}
-  RightTeleportInteractor: {fileID: 0}
-  LeftTeleportInteractor: {fileID: 0}
-  RightDirectInteractor: {fileID: 0}
-  LeftDirectInteractor: {fileID: 0}
-  RightTractorBeam: {fileID: 0}
-  LeftTractorBeam: {fileID: 0}
+  RightTeleportInteractor: {fileID: 320202891}
+  LeftTeleportInteractor: {fileID: 1863615641}
+  RightDirectInteractor: {fileID: 1621470415}
+  LeftDirectInteractor: {fileID: 169644647}
+  RightTractorBeam: {fileID: 1621470412}
+  LeftTractorBeam: {fileID: 169644644}
 --- !u!114 &2105590817
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21558,7 +21558,7 @@ MonoBehaviour:
   m_Camera: {fileID: 964363184}
   m_OriginBaseGameObject: {fileID: 2105590815}
   m_CameraFloorOffsetObject: {fileID: 774860280}
-  m_RequestedTrackingOriginMode: 0
+  m_RequestedTrackingOriginMode: 1
   m_CameraYOffset: 1.1176
 --- !u!4 &2105590818
 Transform:
@@ -21568,7 +21568,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2105590815}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.4063587, y: 1.3651762, z: 0.02890873}
+  m_LocalPosition: {x: -2.4063587, y: 1.5, z: 0.02890873}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 774860281}
