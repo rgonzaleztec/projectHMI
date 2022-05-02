@@ -17,21 +17,12 @@ MonoBehaviour:
   SharedDepthBuffer: 1
   DashSupport: 1
   V2Signing: 1
-<<<<<<< HEAD
-  LowOverheadMode: 0
-=======
   LowOverheadMode: 1
->>>>>>> 222a24eb984e2919653a844f9afe882b1567e112
   ProtectedContext: 0
   FocusAware: 1
   OptimizeBufferDiscards: 1
   PhaseSync: 0
-<<<<<<< HEAD
-  SubsampledLayout: 1
-  TargetQuest: 1
-=======
   SubsampledLayout: 0
   TargetQuest: 0
->>>>>>> 222a24eb984e2919653a844f9afe882b1567e112
   TargetQuest2: 1
   SystemSplashScreen: {fileID: 0}
